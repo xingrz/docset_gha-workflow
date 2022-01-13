@@ -1,0 +1,9 @@
+{
+    "name": "GHA Workflows",
+    "package": "gha-workflow",
+    "index": "index.html",
+    "icon32x32": "icon32.png",
+    "selectors": {
+        "h2 code": "Command"
+    }
+}
